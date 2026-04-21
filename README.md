@@ -1,4 +1,4 @@
-# 🚨 VSense  
+# 🚨 ModSense
 ### Real-Time AI-Powered Violence Detection System  
 
 **Open Source Core + Enterprise-Ready Platform by Modgenix**
@@ -7,7 +7,7 @@
 
 ## 📌 Overview  
 
-VSense is a real-time AI-powered system that detects violence, aggression, and threats from live video streams. It converts traditional CCTV setups into intelligent, proactive safety infrastructure.
+ModSense is a real-time AI-powered system that detects violence, aggression, and threats from live video streams. It converts traditional CCTV setups into intelligent, proactive safety infrastructure.
 
 This repository provides the **open-source core framework**, while **Modgenix offers enterprise-grade deployment, scaling, and customization services**.
 
@@ -136,7 +136,7 @@ We welcome:
 - Government and smart city initiatives  
 - Research collaborations  
 
-If you want to co-develop, integrate, or deploy VSense at scale, reach out.
+If you want to co-develop, integrate, or deploy ModSense at scale, reach out.
 
 ---
 
